@@ -29,3 +29,9 @@
   height: 0;
   padding-top: 39%;
 }
+
+.stash-logo:hover {
+  -ms-transform: scale(1.05); /* IE 9 */
+  -webkit-transform: scale(1.05); /* Chrome, Safari, Opera */
+  transform: scale(1.05);
+}
