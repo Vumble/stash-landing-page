@@ -18,10 +18,6 @@
   height: 0;
   padding-top: 31%;
   margin-bottom: 5%;
-  
-  -moz-animation: fadein 3s; /* Firefox */
-  -webkit-animation: fadein 3s; /* Safari and Chrome */
-  -o-animation: fadein 3s; /* Opera */
 }
 
 .stash-logo{
@@ -36,10 +32,6 @@
   transition: all .5s ease-out;
   -moz-transition: all .5s ease-out;
   -webkit-transition: all .5s ease-out;
-  
-  -moz-animation: fadein 3s; /* Firefox */
-  -webkit-animation: fadein 3s; /* Safari and Chrome */
-  -o-animation: fadein 3s; /* Opera */
 }
 
 .stash-logo:hover {
